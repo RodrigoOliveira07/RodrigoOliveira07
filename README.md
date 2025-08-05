@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente venho aprofundando os conhecimentos em **Power BI, SQL e Python**
 
-- ⚡Estudando ferramentas para análise de dados como parte do meu interesse por **tecnologia e raciocínio lógico**
+- ⚡Estudo ferramentas para análise de dados como parte do meu interesse por **tecnologia e raciocínio lógico**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
